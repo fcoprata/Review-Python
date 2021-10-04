@@ -6,3 +6,4 @@ Repository created in order to store study files for python
 | Notebook name| Link |
 | ------ | ------ |
 | Review Python | [https://bit.ly/3A3OAQT] |
+| Study Pandas | [https://bit.ly/3mgk5SS] |
